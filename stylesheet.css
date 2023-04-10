@@ -1,3 +1,7 @@
 img #profilepic {
   border-radius: 50%;
 }
+
+body {
+  background-color: red;
+}
